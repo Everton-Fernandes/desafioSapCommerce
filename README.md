@@ -18,7 +18,7 @@ Este repositório contém o código para uma plataforma de cursos online, desenv
 
 # Requisitos
 
-1.  Java 11 ou superior
+1.  Java 23
 2.  Maven
 3.  Postman (para testes da API)
 
